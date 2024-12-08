@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-ASP.NET_Core_Authentication-8a0cbffe-3568-4441-b416-58cbd3783a7b</UserSecretsId>
     <RootNamespace>ASP.NET_Core_Authentication</RootNamespace>
+	<AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
   <ItemGroup>
